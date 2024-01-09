@@ -1,7 +1,8 @@
-# Hi there 👋
-# Welcome to Khairullah Hamsafar's Profile! 💛💚
-
+# <center>Hi there 👋</center>
+## <center>Welcome to Khairullah Hamsafar's Profile! 💛💚</center>
+<center>
 ![Header](https://raw.github.com/khairullahhamsafar/portfolio_prjects/main/Data_Scientists_Salaries_Analysis/img/My_LinkedIn_Banner.png)
+</center>
 
 ## 👨‍💻 About Me:
 A paradigm Software Engineer, results-driven Data Scientist, and Machine Learning researcher with a Bachelor of Science in Software Engineering. Proficient in problem-solving and Python programming, specializing in machine learning, deep learning, and data analysis using Pandas, NumPy, and SciPy. Skilled in crafting impactful visualizations with Matplotlib and Seaborn. Having a strong handover on developing interactive dashboards using Plotly, Dash, and Bokeh. Experienced in Web Apps and API's development (PHP, Django, Flask, JavaScript), databases (SQL, NoSQL), and graphic/UI/UX designing using Photoshop, Illustrator, and Blender. Demonstrated research capabilities in Climate Change, Public Policy, Wildlife, and Business Development. Accomplished writer covering Emerging Technologies, Economic Growth, Public Policy, and Environmental Issues. Successfully delivered diverse projects, including Twitter Sentiment Analysis, Amazon Products Reviews Analysis, Real-time Satellites Monitoring, and Impact of Climate Change on Birds. Eager to bring a fusion of technical expertise and creative problem-solving to contribute to impactful roles in Data Science, Data Analytics Machine Learning, or related fields.
