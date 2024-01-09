@@ -58,7 +58,7 @@ Engaging collaborations in interdisciplinary projects that blend:
 He/Him
 
 ## ⚡ Fun Fact:
-Enthusiastic explorer of code realms and literary landscapes. Balancing between debugging algorithms and crafting poetic verses. From the chessboard to the volleyball court, I'm not just coding bytes, but also spiking volleys. Passionate about unraveling the mysteries of tech, traveling through diverse cultures, and finding inspiration in the pages of books and the beauty of nature. 📚🌍🖋️✨ 
+Enthusiastic explorer of code realms and literary landscapes. Balancing between debugging algorithms and crafting poetic verses. From the chessboard to the volleyball court, I'm not just coding bytes, but also spiking volleys. Passionate about unraveling the mysteries of tech, traveling through diverse cultures, and finding inspiration in the pages of books and the beauty of nature. 📚🌍🖋️✨ <br/>
 #CodePoet #BookwormExplorer #ChessNerd 🏐🌿.
 
 Let's connect and explore the possibilities of data-driven innovation, emerging technologies, and exponential growth together! 🚀✨
