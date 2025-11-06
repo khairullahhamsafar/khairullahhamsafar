@@ -1,5 +1,3 @@
-{{wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5}}
-
 # Hi there 👋
 ## Welcome to Khairullah Hamsafar's Profile! 💛💚
 
